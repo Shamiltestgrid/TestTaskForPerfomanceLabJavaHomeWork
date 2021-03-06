@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EchoChamber:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EchoChamber_jar</output-path>
+    <root id="archive" name="EchoChamber.jar">
+      <element id="module-output" name="EchoChamber" />
+    </root>
+  </artifact>
+</component>
